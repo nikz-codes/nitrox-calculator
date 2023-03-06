@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  NitroxCalculator
 //
-//  Created by Nikolay Zhekov on 18/02/2023.
+//  Created by Nikolay Zhekov on 07/03/2023.
 //
 
 import SwiftUI

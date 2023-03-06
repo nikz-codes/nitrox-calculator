@@ -10,6 +10,7 @@
 		A834E8EA29A6108800AAEA4C /* MODCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834E8E929A6108800AAEA4C /* MODCalculatorView.swift */; };
 		A834E8EC29A6109400AAEA4C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834E8EB29A6109400AAEA4C /* SettingsView.swift */; };
 		A834E8EE29A611BB00AAEA4C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834E8ED29A611BB00AAEA4C /* Model.swift */; };
+		A86AA19E29B6710B002282E4 /* MODCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86AA19D29B6710B002282E4 /* MODCalculator.swift */; };
 		A873796B29A14C0700F4D03B /* NitroxCalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A873796A29A14C0700F4D03B /* NitroxCalculatorApp.swift */; };
 		A873796D29A14C0700F4D03B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A873796C29A14C0700F4D03B /* ContentView.swift */; };
 		A873796F29A14C0800F4D03B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A873796E29A14C0800F4D03B /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		A834E8E929A6108800AAEA4C /* MODCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MODCalculatorView.swift; sourceTree = "<group>"; };
 		A834E8EB29A6109400AAEA4C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		A834E8ED29A611BB00AAEA4C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		A86AA19D29B6710B002282E4 /* MODCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MODCalculator.swift; sourceTree = "<group>"; };
 		A873796729A14C0700F4D03B /* NitroxCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NitroxCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A873796A29A14C0700F4D03B /* NitroxCalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NitroxCalculatorApp.swift; sourceTree = "<group>"; };
 		A873796C29A14C0700F4D03B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A873796C29A14C0700F4D03B /* ContentView.swift */,
+				A86AA19D29B6710B002282E4 /* MODCalculator.swift */,
 				A834E8E929A6108800AAEA4C /* MODCalculatorView.swift */,
 				A834E8ED29A611BB00AAEA4C /* Model.swift */,
 				A873796A29A14C0700F4D03B /* NitroxCalculatorApp.swift */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A86AA19E29B6710B002282E4 /* MODCalculator.swift in Sources */,
 				A834E8EE29A611BB00AAEA4C /* Model.swift in Sources */,
 				A873796D29A14C0700F4D03B /* ContentView.swift in Sources */,
 				A834E8EC29A6109400AAEA4C /* SettingsView.swift in Sources */,

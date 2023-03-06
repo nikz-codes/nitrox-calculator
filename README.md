@@ -1,2 +1,3 @@
-# nitrox-calculator
-Nitrox Calculator using SwiftUI
+# Nitrox Calculator using SwiftUI
+
+![Demo](./docs/demo.gif)
